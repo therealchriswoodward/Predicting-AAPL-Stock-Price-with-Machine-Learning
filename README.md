@@ -17,7 +17,6 @@ Using Linear Regression to predict AAPL's stock price with 95% confidence.
 ***
 
 # About Me:
-***
 
 I'm Chris Woodward. I am currently seeking opportunities in Florida for data analysis/data science. I am very open to remote work and willing to relocate to another area in Florida under the right circumstances. My salary goal is $70,000 (not including benefits).
 
